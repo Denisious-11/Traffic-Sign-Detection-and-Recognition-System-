@@ -1,0 +1,30 @@
+Yolo dataset creation
+_______________________
+makesense.ai (check this site)
+
+
+
+
+
+
+
+
+
+
+
+
+When creating CUSTOMIZED YOLO MODEL
+__________________________________
+
+1)"yolov3_r.cfg" file le [yolo] de above ulla "filters" nte numbers chnage cheyyanam
+2)"number of classes" um change cheyyanm
+
+equation for number of filters
+==============================
+(number of classes+5)*3
+
+eg : number of classes=2
+
+then, filters=(2+5)*3
+			 =7*3
+			 =21
